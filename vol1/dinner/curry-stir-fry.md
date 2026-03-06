@@ -15,7 +15,6 @@ servings: "4"
 
 ## Ingredients
 
--test
 - 1 lb chicken breast, diced
 - 1 yellow onion, sliced
 - 1 red bell pepper, sliced
